@@ -1,9 +1,9 @@
 Program Task
 
-(A) Program_task_output_A.pdf
-(B) Program_task_output_B.pdf
-(C) Program_task_A.R, Program_task_A.R
-(D) About data.txt
+(A) Program_task_output_A.pdf 
+(B) Program_task_output_B.pdf 
+(C) Program_task_A.R, Program_task_A.R 
+(D) About data.txt 
 
 Code Review task
 
