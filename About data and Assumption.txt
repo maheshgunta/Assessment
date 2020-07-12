@@ -1,0 +1,13 @@
+My observations are:
+User file not formatted
+Districts data from Aras file also not formatted 
+
+Assumptions 
+1. Area data (District_1, district_1) is not case sensitive 
+2. Same Beneficiary can visit same area or same service multiple times , it is not a duplicate data.
+
+
+I would prefer visualization on Tableau.
+
+
+
