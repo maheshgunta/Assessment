@@ -3,7 +3,7 @@ Program Task
 (A) Program_task_output_A.pdf 
 (B) Program_task_output_B.pdf 
 (C) Program_task_A.R, Program_task_A.R 
-(D) About data.txt 
+(D) About data and Assumption.txt 
 
 Code Review task
 
